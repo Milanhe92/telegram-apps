@@ -39,7 +39,7 @@
     "@types/ramda": "^0.30.2",
     "rollup-plugin-preserve-shebang": "^1.0.1",
     "tsconfig": "workspace:*",
-    "vite": "^5.4.11",
+    "vite": "^5.4.21",
     "vite-tsconfig-paths": "^5.1.2"
   },
   "dependencies": {
