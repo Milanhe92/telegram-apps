@@ -14,7 +14,7 @@
     "@telegram-apps/telegram-ui": "^2.1.8",
     "@tonconnect/ui-react": "^2.0.9",
     "eruda": "^3.4.1",
-    "next": "14.2.18",
+    "next": "14.2.35",
     "normalize.css": "^8.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
